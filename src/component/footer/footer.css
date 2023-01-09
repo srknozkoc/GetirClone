@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.footerContend {
+    @apply
+    container
+    mx-auto
+    max-w-[1232px]
+    flex
+    items-center
+    justify-between
+
+}
+
+.mobileApp {
+    @apply
+    flex
+    flex-col
+    items-start
+    justify-center
+    gap-4
+    w-[250px]
+}
+
+.SSS {
+    @apply
+    flex
+    flex-col
+    items-start
+    justify-center
+    gap-4
+}
+
+.description{
+    @apply
+    flex
+    flex-col
+    items-start
+    justify-center
+    gap-4
+}
+
+.business {
+    @apply
+    flex
+    flex-col
+    items-start
+    justify-center
+    gap-4
+
+}

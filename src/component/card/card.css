@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.CardContainer {
+    @apply
+    container
+    mx-auto
+    max-w-[1232px]
+    flex
+    items-center
+    justify-center
+
+}

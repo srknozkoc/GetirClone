@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.campaigns {
+    @apply
+    container
+    mx-auto
+    max-w-[1232px]
+    py-4
+    flex-col
+    items-center
+    justify-between
+}
+
+.mobilİnformation {
+    @apply
+    w-full
+    h-[312px]
+    bg-primary-brand-color
+    rounded-2xl
+    mt-8
+    bg-brand-image
+    flex
+    items-center
+    justify-between
+}

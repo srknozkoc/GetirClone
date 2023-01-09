@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.categories {
+    @apply
+    h-[310px]
+    bg-white
+    container
+    mx-auto
+    max-w-[1232px]
+    py-4
+    bg-white
+}

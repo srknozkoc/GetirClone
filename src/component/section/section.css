@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.main-section {
+    @apply
+    relative
+    before:bg-gradient-to-r
+    before:from-primary-brand-color
+    before:to-transparent
+    before:absolute
+    before:inset-0
+    before:w-full
+    before:z-10
+    before:pointer-events-none
+    h-[500px]
+}
+
+.section {
+    @apply
+    container
+    absolute
+    top-0
+    -translate-x-[-22%]
+    h-full
+    z-20
+    flex
+    justify-between
+    items-center
+}
+
+.login {
+    @apply
+    w-[400px]
+    bg-white
+    relative
+    rounded-lg
+    p-6
+    -translate-x-[78%]
+}
+
+.rfs-custom > button {
+    @apply
+    border-2
+    rounded-lg
+    border-[#dfdee2]
+    hover:border-primary-brand-color
+    h-[56px]
+}

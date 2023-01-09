@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.header {
+    @apply
+    bg-[#4c3398]
+    sticky
+    top-0
+    z-40
+}
+
+.main-head {
+    @apply
+    h-[45px]
+    flex
+    items-center
+    justify-between
+    container
+    mx-auto
+    max-w-[1232px]
+}
+
+.left-head {
+    @apply
+    flex
+    items-center
+    justify-center
+    pr-48
+    gap-0.5
+    pt-1
+}
+
+.left-head a {
+    @apply
+    h-10
+    flex
+    items-center
+    justify-center
+    rounded-t-lg
+    border-solid
+
+}
+.left-head .active {
+    @apply
+    bg-[#5d3ebc]
+}
+
+.right-head {
+    @apply
+    flex
+    text-sm
+    font-medium
+    gap-8
+
+}
+
+
+.right-head a {
+    @apply
+    text-white
+    transition-all
+    flex
+    items-center
+    justify-center
+    gap-x-2
+    h-11
+    pt-1
+}
