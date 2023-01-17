@@ -1,8 +1,8 @@
 import ReactFlagsSelect from "react-flags-select";
 import React, {useState} from "react";
 import { phones } from '../../api/api-settings'
-export default function Signİn () {
 
+export default function SignIn () {
     const [selected, setSelected] = useState('TR')
     return(
         <div id={'modal'} className={'w-[450] z-70 bg-gray-400 hidden'}>

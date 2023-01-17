@@ -1,0 +1,650 @@
+{
+  "category": {
+    "id": "5697c78dc181490f00c99fea",
+    "type": 1,
+    "name": "Yeni Ürünler",
+    "picURL": "https://market-product-images-cdn.getirapi.com/category/e8b802e6-7987-486f-bf53-a9720c698a98.jpg",
+    "productCount": 14,
+    "subCategories": [
+      {
+        "id": "5a14017dad8d270004d1f2bb",
+        "name": "Yeni Ürünler",
+        "productCount": 14,
+        "products": [
+          {
+            "id": "63b7f40028591c41a1ae56c3",
+            "name": "Mutlu Midye Makarna",
+            "shortName": "Mutlu Midye Makarna",
+            "shortDescription": "500 g",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/46e6b4f7-0063-4f8f-8f63-7dd146d9541b.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/46e6b4f7-0063-4f8f-8f63-7dd146d9541b.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "56def24e1cda0403006f9e0e",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 11.99,
+            "priceText": "₺11,99",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "61974ff38d63e4dd39aed2ee",
+              "name": "Mutlu"
+            },
+            "tags": [],
+            "slug": "mutlu-midye-makarna-tj7yll9kny",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "6375525f0311dc4e3b65ab59",
+            "name": "Mayi Tuz İyotlu İnce Öğütülmüş Doğal Kaynak Tuzu ",
+            "shortName": "Mayi Tuz Doğal Kaynak Tuzu",
+            "shortDescription": "250 g",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/9067c4a5-aa29-4ae1-b051-03965437f5b1.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/9067c4a5-aa29-4ae1-b051-03965437f5b1.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "564c682cd35e7d0c002bd2ed",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 21.9,
+            "priceText": "₺21,90",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "637551e93191292931bd0f8f",
+              "name": "Mayi Tuz"
+            },
+            "tags": [],
+            "slug": "mayi-tuz-iyotlu-ince-ogutulmus-dogal-kaynak-tuzu-pwp71v9t1h",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "6375523db794f14f1ccc19dc",
+            "name": "Mayi Tuz İyotlu İnce Öğütülmüş Doğal Kaynak Tuzu",
+            "shortName": "Mayi Tuz Doğal Kaynak Tuzu",
+            "shortDescription": "600 g",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/0ddba547-cacf-4d24-b2a0-6fe340a94f55.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/0ddba547-cacf-4d24-b2a0-6fe340a94f55.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "564c682cd35e7d0c002bd2ed",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 32.5,
+            "priceText": "₺32,50",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "637551e93191292931bd0f8f",
+              "name": "Mayi Tuz"
+            },
+            "tags": [],
+            "slug": "mayi-tuz-iyotlu-ince-ogutulmus-dogal-kaynak-tuzu-hzqiebqczk",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "639c76cded69cf1eae111a91",
+            "name": "Sırma Mısır Yağı",
+            "shortName": "Sırma Mısır Yağı",
+            "shortDescription": "2 L",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/479b3535-08cf-4f72-b3b6-69c77ac93365.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/479b3535-08cf-4f72-b3b6-69c77ac93365.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea",
+              "63a98c7398f1d7090d9fed56"
+            ],
+            "subCategoryIds": [
+              "56dfd0e3a32e31030065ca49",
+              "5a14017dad8d270004d1f2bb",
+              "63a98d213252cd249fb7e338"
+            ],
+            "displayType": 0,
+            "price": 87.9,
+            "priceText": "₺87,90",
+            "status": 1,
+            "struckPrice": 108.4,
+            "struckPriceText": "₺108,40",
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "639c767a7ffc83812d1d94b5",
+              "name": "Sırma"
+            },
+            "tags": [],
+            "slug": "sirma-misir-yagi-miii3x6gcx",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "6391c4660b766154200dbf6f",
+            "name": "Tat Köftelik Bulgur",
+            "shortName": "Tat Köftelik Bulgur",
+            "shortDescription": "1 kg",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/44fa8c61-bc84-42a6-831c-252de4b2aff7.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/44fa8c61-bc84-42a6-831c-252de4b2aff7.jpg"
+            ],
+            "categoryIds": [
+              "5697c78dc181490f00c99fea",
+              "56dfcfba86004203000a870d"
+            ],
+            "subCategoryIds": [
+              "5a14017dad8d270004d1f2bb",
+              "5d3878d1a48d7500018965f3"
+            ],
+            "displayType": 0,
+            "price": 19.9,
+            "priceText": "₺19,90",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5aae7beb3c0b5484c7acc080",
+              "name": "Tat"
+            },
+            "tags": [],
+            "slug": "tat-koftelik-bulgur-akbts7jd8u",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "6387a90776bec126f7d4b496",
+            "name": "Tat Pilavlık Bulgur",
+            "shortName": "Tat Pilavlık Bulgur",
+            "shortDescription": "1 kg",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/8d080923-b8c7-4eb1-ba9e-28d665dc343f.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/8d080923-b8c7-4eb1-ba9e-28d665dc343f.jpg"
+            ],
+            "categoryIds": [
+              "5697c78dc181490f00c99fea",
+              "56dfcfba86004203000a870d"
+            ],
+            "subCategoryIds": [
+              "5a14017dad8d270004d1f2bb",
+              "5d3878d1a48d7500018965f3"
+            ],
+            "displayType": 0,
+            "price": 19.9,
+            "priceText": "₺19,90",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5aae7beb3c0b5484c7acc080",
+              "name": "Tat"
+            },
+            "tags": [],
+            "slug": "tat-pilavlik-bulgur-sknfmn6xno",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "6387a3dfc1eb6ed2c9b53eb3",
+            "name": "Doyum Dermason Kuru Fasulye",
+            "shortName": "Doyum Fasulye",
+            "shortDescription": "1 kg",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/684c4efe-5d3e-46dd-a069-e56594efd4c0.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/684c4efe-5d3e-46dd-a069-e56594efd4c0.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "5d10af9806d6060001b1130f",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 45.9,
+            "priceText": "₺45,90",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "6384f41582602c905a618d34",
+              "name": "Doyum"
+            },
+            "tags": [],
+            "slug": "doyum-dermason-fasulye-unje6nr5j3",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "6387a1dbbac9be134d66fb5c",
+            "name": "Doyum Nohut",
+            "shortName": "Doyum Nohut",
+            "shortDescription": "1 kg",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/91a42b57-14af-4687-bf8c-1969266dfa08.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/91a42b57-14af-4687-bf8c-1969266dfa08.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "5d10af9806d6060001b1130f",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 39.2,
+            "priceText": "₺39,20",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "6384f41582602c905a618d34",
+              "name": "Doyum"
+            },
+            "tags": [],
+            "slug": "doyum-nohut-9o3dugqrsk",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "63848628d857816c5277ce29",
+            "name": "Yudum Egemden Yumuşak Lezzet Natürel Sızma Zeytinyağı",
+            "shortName": "Yudum Egemden Natürel Zeytinyağı",
+            "shortDescription": "2 L",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/4802fd49-d57c-498e-99ce-547dd3db36d5.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/4802fd49-d57c-498e-99ce-547dd3db36d5.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "622780f07fb9dcefa125f0c7",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 219.9,
+            "priceText": "₺219,90",
+            "status": 1,
+            "struckPrice": 276.9,
+            "struckPriceText": "₺276,90",
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5aae7beb3c0b5484c7acc0a4",
+              "name": "Yudum"
+            },
+            "tags": [],
+            "slug": "yudum-egemden-yumusak-lezzet-naturel-sizma-zeytinyagi-dr9cg2xkdm",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "636521fe096b9500d8091eea",
+            "name": "Komili Ayçiçek Yağı",
+            "shortName": "Komili Ayçiçek Yağı",
+            "shortDescription": "2 L",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/352d5287-b150-4946-9c57-d7a997096176.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/352d5287-b150-4946-9c57-d7a997096176.jpg"
+            ],
+            "categoryIds": [
+              "56dfcfba86004203000a870d",
+              "5697c78dc181490f00c99fea",
+              "63a98c7398f1d7090d9fed56"
+            ],
+            "subCategoryIds": [
+              "56dfd0e3a32e31030065ca49",
+              "5a14017dad8d270004d1f2bb",
+              "63a98d213252cd249fb7e338"
+            ],
+            "displayType": 0,
+            "price": 100.7,
+            "priceText": "₺100,70",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5aae7beb3c0b5484c7acbfce",
+              "name": "Komili"
+            },
+            "tags": [],
+            "slug": "komili-aycicek-yagi-5wfcoflw5s",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "633c6287b80aab0140f0230a",
+            "name": "Cillit Bang Lavabo Açıcı",
+            "shortName": "Cillit Bang Lavabo Açıcı",
+            "shortDescription": "500 ml",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/0c4f3065-c825-4300-91cd-97ed9f170f7d.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/0c4f3065-c825-4300-91cd-97ed9f170f7d.jpg"
+            ],
+            "categoryIds": [
+              "55449fdf02632e11003c2da8",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "564c881027652f0c007460f0",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 45.99,
+            "priceText": "₺45,99",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5aae7beb3c0b5484c7acbf4a",
+              "name": "Cillit Bang"
+            },
+            "tags": [],
+            "slug": "cillit-bang-lavabo-acici-ssdr4drfub",
+            "badgeImages": [],
+            "details": {
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "6334202036dcdb6b2ff1efc6",
+            "name": "Golf Royal Tartufo Bitter Çikolata Soslu Dondurma",
+            "shortName": "Royal Tartufo Bitter Çikolata",
+            "shortDescription": "850 ml",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/959b808e-7ae3-4709-a05d-d4d68b5fdeb2.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/959b808e-7ae3-4709-a05d-d4d68b5fdeb2.jpg"
+            ],
+            "categoryIds": [
+              "55bca8484dcda90c00e3aa80",
+              "5697c78dc181490f00c99fea",
+              "61b9ed091a62a71f128e1fec"
+            ],
+            "subCategoryIds": [
+              "5fbcd1beb1b8a2c673204b1f",
+              "5a14017dad8d270004d1f2bb",
+              "61c03f43f4a8b042c17f61d3"
+            ],
+            "displayType": 0,
+            "price": 52.5,
+            "priceText": "₺52,50",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5ef30134cc20dd049a939adc",
+              "name": "Golf Royal"
+            },
+            "tags": [],
+            "slug": "golf-royal-tartufo-bitter-cikolata-soslu-dondurma-gr27tsjvrg",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "633411f25d23fb9e1b57f362",
+            "name": "Golf Royal Gourmet Yaz Ferahlığı",
+            "shortName": " Royal Yaz Ferahlığı",
+            "shortDescription": "850 ml",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/8c852961-46ee-4c2c-a76e-53fadd047084.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/8c852961-46ee-4c2c-a76e-53fadd047084.jpg"
+            ],
+            "categoryIds": [
+              "55bca8484dcda90c00e3aa80",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "5fbcd1beb1b8a2c673204b1f",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 52.5,
+            "priceText": "₺52,50",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5ef30134cc20dd049a939adc",
+              "name": "Golf Royal"
+            },
+            "tags": [],
+            "slug": "golf-royal-gourmet-yaz-ferahligi-cyruhxmcir",
+            "badgeImages": [],
+            "details": {
+              "additionalPropertyTables": []
+            }
+          },
+          {
+            "id": "63341a7e5aad6d383898ac5a",
+            "name": "Golf Royal Gourmet Vegan Limon, Karadut & Ananas",
+            "shortName": "Royal Vegan Limon & Karadut",
+            "shortDescription": "850 ml",
+            "squareThumbnailURL": "https://market-product-images-cdn.getirapi.com/product/5b96b658-78ad-46cd-9a9f-72559676a5ed.jpg",
+            "picURLs": [
+              "https://market-product-images-cdn.getirapi.com/product/5b96b658-78ad-46cd-9a9f-72559676a5ed.jpg"
+            ],
+            "categoryIds": [
+              "55bca8484dcda90c00e3aa80",
+              "5697c78dc181490f00c99fea"
+            ],
+            "subCategoryIds": [
+              "5fbcd1beb1b8a2c673204b1f",
+              "5a14017dad8d270004d1f2bb"
+            ],
+            "displayType": 0,
+            "price": 52.5,
+            "priceText": "₺52,50",
+            "status": 1,
+            "isFavorite": false,
+            "infoMessages": [],
+            "currency": {
+              "symbol": "₺",
+              "codeAlpha": "TRY",
+              "isSymbolFirst": true
+            },
+            "additionalPropertyTables": [],
+            "brand": {
+              "id": "5ef30134cc20dd049a939adc",
+              "name": "Golf Royal"
+            },
+            "tags": [],
+            "slug": "golf-royal-gourmet-vegan-limon-karadut-ananas-3n5mipirg5",
+            "badgeImages": [],
+            "details": {
+              "descriptions": {
+                "order": 3,
+                "title": "Detaylar",
+                "tags": []
+              },
+              "additionalPropertyTables": []
+            }
+          }
+        ],
+        "slug": "yeni-urunler-ABkHsaFket"
+      }
+    ],
+    "slug": "yeni-urunler-OcXAkcBF1S"
+  }
+}
